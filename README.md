@@ -23,7 +23,7 @@ allprojects {
 Add the dependency
 ```
 dependencies {
-  implementation 'com.github.luthfipun:CardBattery:1.0.0'
+  implementation 'com.github.luthfipun:CardBattery:1.0.2'
 }
 ```
 
