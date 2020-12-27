@@ -4,7 +4,7 @@
 
 Android library for view card battery, brightness, volumes like on ios
 
-<img src="https://github.com/luthfipun/CardBattery/ss/ss.png" width="250" />
+<img src="https://github.com/luthfipun/CardBattery/blob/master/ss/ss.png" width="250" />
 
 ## Install
 
