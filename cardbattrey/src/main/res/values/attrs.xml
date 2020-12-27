@@ -4,6 +4,7 @@
         <attr name="cbBackground" format="color" />
         <attr name="cbRadius" format="integer" />
         <attr name="cbProgress" format="integer" />
-        <attr name="cbProgress_color" format="color" />
+        <attr name="cbProgressColor" format="color" />
+        <attr name="cbShowProgress" format="boolean" />
     </declare-styleable>
 </resources>
